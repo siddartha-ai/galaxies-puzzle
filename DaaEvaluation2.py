@@ -649,3 +649,4 @@ class GalaxiesUI(tk.Tk):
 
 if __name__ == "__main__":
     GalaxiesUI().mainloop()
+
